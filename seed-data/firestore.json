@@ -1,0 +1,12 @@
+{
+  "Collection1": {
+    "DocumentId": {
+      "key": "Value"
+    }
+  },
+  "Collection2": {
+    "DocumentId": {
+      "key": "Value"
+    }
+  }
+}
